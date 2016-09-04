@@ -1,0 +1,16 @@
+{
+  "name": "jsonresume-theme-simplistic",
+  "version": "0.0.1",
+  "description": "Theme for JSON Resume",
+  "author": "Håkon Ødegård Løvdal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakloev/jsonresume-theme-simplistic"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1"
+  }
+}
